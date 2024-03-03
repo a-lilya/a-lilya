@@ -24,7 +24,7 @@ https://t.me/Akhmadeeva_Lilya
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 ### Сертификаты
-![Image alt](https://github.com/a-lilya/a-lilya/raw/main/Сертификат_karpov.courses.pdf/image.png)
+![Image alt](https://github.com/a-lilya/a-lilya/raw/main/Сертификат_karpov.courses/image.png)
 
 Сертификат доступен по ссылке https://lab.karpov.courses/certificate/eaa9ebee-980d-4bfa-bec1-d609273c80c0/
 
