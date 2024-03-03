@@ -1,6 +1,10 @@
 ### Привет, меня зовут Лиля! 👋
 Я занимаюсь аналитикой данных с лета 2023 года. Закончила курс "Аналитик данных" у karpov.courses. В свободное время читаю книги об аналитике, постоянно практикуюсь на StrataScratch, Kaggle, Степике. Также смотрю видео на каналах karpov.courses и Noukash.
 
+## Контакты
+akhmadeeva2002@gmail.com
+https://t.me/Akhmadeeva_Lilya
+
 # Languages and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -11,6 +15,8 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 <!--
 **a-lilya/a-lilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
