@@ -25,6 +25,7 @@ https://t.me/Akhmadeeva_Lilya
 
 ### Сертификаты
 ![](https://github.com/a-lilya/a-lilya/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_karpov.courses.pdf)
+![image](https://github.com/a-lilya/a-lilya/assets/160621194/edf42629-dea6-4ed8-8174-3dc8f767a147)
 
 Сертификат доступен по ссылке https://lab.karpov.courses/certificate/eaa9ebee-980d-4bfa-bec1-d609273c80c0/
 
