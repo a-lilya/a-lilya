@@ -23,6 +23,11 @@ https://t.me/Akhmadeeva_Lilya
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
+### Сертификаты
+![image](https://github.com/a-lilya/a-lilya/assets/160621194/7dd1aeee-daef-4b14-9c17-19abf01946fc)
+Сертификат доступен по ссылке [https://lab.karpov.courses/certificate/9e787c80-2886-48fc-b0d9-d65042bf611a/](https://lab.karpov.courses/certificate/eaa9ebee-980d-4bfa-bec1-d609273c80c0/)
+
+
 <!--
 **a-lilya/a-lilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
