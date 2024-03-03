@@ -14,9 +14,12 @@ https://t.me/Akhmadeeva_Lilya
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![image](https://github.com/a-lilya/a-lilya/assets/160621194/b31940bf-cccc-43ee-b49a-9bd2e51fb332)
 ![image](https://github.com/a-lilya/a-lilya/assets/160621194/74562c66-ac07-4948-9ba1-e18c3e1129a8)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://github.com/a-lilya/a-lilya/assets/160621194/0f4de5a1-ebe0-48a9-a5cf-aa61f7547b10)
+![image](https://github.com/a-lilya/a-lilya/assets/160621194/087054a8-93f4-4777-95e2-00e1ae24ac9b)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
