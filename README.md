@@ -1,11 +1,12 @@
 ### Привет, меня зовут Лиля! 👋
 Я занимаюсь аналитикой данных с лета 2023 года. Закончила курс "Аналитик данных" у karpov.courses. В свободное время читаю книги об аналитике, постоянно практикуюсь на StrataScratch, Kaggle, Степике. Также смотрю видео на каналах karpov.courses и Noukash.
 
-## Контакты
+### Контакты
 akhmadeeva2002@gmail.com
+
 https://t.me/Akhmadeeva_Lilya
 
-# Languages and tools
+### Languages and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
