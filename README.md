@@ -1,6 +1,8 @@
 ### Привет, меня зовут Лиля! 👋
 Я занимаюсь аналитикой данных с лета 2023 года. Закончила курс "Аналитик данных" у karpov.courses. В свободное время читаю книги об аналитике, постоянно практикуюсь на StrataScratch, Kaggle, Степике. Также смотрю видео на каналах karpov.courses и Noukash.
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 <!--
 **a-lilya/a-lilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
